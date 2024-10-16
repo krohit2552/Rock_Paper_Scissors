@@ -44,9 +44,11 @@ Modifying the styles in style.css to fit your design preferences.
 Adding new features or game modes in the app.js file.
 Contributing
 Contributions are welcome! If you have any ideas to improve the game, feel free to fork the repository and submit a pull request.
-
+live from the link--  https://github.com/krohit2552/Rock_Paper_Scissors.git
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+
+
 Contact
-If you have any questions or feedback, feel free to reach out via email.
+If you have any questions or feedback, feel free to reach out via email.kumarrohit2551997@gmail.com
