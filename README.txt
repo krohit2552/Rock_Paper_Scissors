@@ -44,7 +44,7 @@ Modifying the styles in style.css to fit your design preferences.
 Adding new features or game modes in the app.js file.
 Contributing
 Contributions are welcome! If you have any ideas to improve the game, feel free to fork the repository and submit a pull request.
-live from the link--  rockpapperscissorskrohit2552.netlify.app
+live from the link--  {rockpapperscissorskrohit2552.netlify.app}
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
